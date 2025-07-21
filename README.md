@@ -5,6 +5,8 @@ I'm excited to share a recent project where I designed and developed a comprehen
 🔍 Objective:
  To provide HR stakeholders with an interactive, real-time view of key employee metrics—enabling insights into workforce demographics, performance, attrition trends, and hiring pipelines.
 
+ ![image alt](https://github.com/Kanchimanoj/HR-Analytics-Dashboard/blob/3e0d8930dc9fc4f13957fb9f745ec9ca3291afa5/HR%20Analytics%20Dashboard.png)
+
 📊 Key Insights Visualized:
 Employee Headcount by department, gender, and experience level
 Attrition Rate Analysis to identify turnover trends and risk areas
